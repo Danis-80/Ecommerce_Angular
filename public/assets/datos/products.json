@@ -1,0 +1,66 @@
+[
+    {
+        "_id" : "1",
+        "nombre" : "Reloj Shakira Edition",
+        "description" : "El famoso reloj que Shakira usaba",
+        "category": ["Reloj","Tecnologia"],
+        "image_url" : [
+            "https://th.bing.com/th/id/OIP.ILmpKZwqPMAL5cG4k8WdCgHaEK?rs=1&pid=ImgDetMain",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/3.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : "$60000",
+        "precio_regular": "$75000",
+        "created_at" : "01/09/2024T16:51:07.214X",
+        "slug": "tipo-Reloj"
+    },
+    {
+        "_id" : "2",
+        "nombre" : "Microfono",
+        "description" : "Microfono profesional",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "https://th.bing.com/th/id/OIP.Jp10gW1f4l3nY3QgvzEwBQHaHa?rs=1&pid=ImgDetMain",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/3.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : "$2360000",
+        "precio_regular": "$23375000",
+        "created_at" : "02/09/2024T16:51:07.214X",
+        "slug": "tipo-Microfono"
+    },
+    {
+        "_id" : "3",
+        "nombre" : "Notebook",
+        "description" : "Notebook i7 con 16 gb de memoria y SSD de 500 gb",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "https://th.bing.com/th/id/OIP.Y59Ou80IKfp0tUfoRLPJnwHaGS?rs=1&pid=ImgDetMain",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : "$160000",
+        "precio_regular": "#175000",
+        "created_at" : "25/08/2024T16:51:07.214X",
+        "slug": "tipo-Notebook"
+    },
+    {
+        "_id" : "4",
+        "nombre" : "Auricular",
+        "description" : "Auricular con cancelacion de ruido",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "https://th.bing.com/th/id/OIP.JQPM2RFqgD1Ikg8CgvXmgwHaHa?rs=1&pid=ImgDetMain",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/3.jpg"
+        ],
+        "precio_venta" : "$40000",
+        "precio_regular": "$55000",
+        "created_at" : "01/09/2024T16:51:07.214X",
+        "slug": "tipo-Auricular"
+    }
+]

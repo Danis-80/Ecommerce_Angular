@@ -1,0 +1,66 @@
+[
+    {
+        "_id" : "1",
+        "nombre" : "Auricular",
+        "description" : "Negro",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/3.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : 60000,
+        "precio_regular": 75000,
+        "created_at" : "01/09/2024T16:51:07.214X",
+        "slug": "tipo-Auricular"
+    },
+    {
+        "_id" : "2",
+        "nombre" : "Microfono",
+        "description" : "Blanco",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/3.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : 60000,
+        "precio_regular": 75000,
+        "created_at" : "02/09/2024T16:51:07.214X",
+        "slug": "tipo-Microfono"
+    },
+    {
+        "_id" : "3",
+        "nombre" : "Notebook",
+        "description" : "Negro",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "../../assets/image/products/tech/3.jpg",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/4.jpg"
+        ],
+        "precio_venta" : 160000,
+        "precio_regular": 175000,
+        "created_at" : "25/08/2024T16:51:07.214X",
+        "slug": "tipo-Notebook"
+    },
+    {
+        "_id" : "4",
+        "nombre" : "Auricular",
+        "description" : "Azul",
+        "category": ["Microfono","Tecnologia"],
+        "image_url" : [
+            "../../assets/image/products/tech/4.jpg",
+            "../../assets/image/products/tech/1.jpg",
+            "../../assets/image/products/tech/2.jpg",
+            "../../assets/image/products/tech/3.jpg"
+        ],
+        "precio_venta" : 40000,
+        "precio_regular": 55000,
+        "created_at" : "01/09/2024T16:51:07.214X",
+        "slug": "tipo-Auricular"
+    }
+]
